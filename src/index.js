@@ -2,12 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
+var calculatePayment = function(principal, years, rate) {
 
-ReactDOM.render( <
-    React.StrictMode >
-    <
-    App / >
-    <
-    /React.StrictMode>,
-    document.getElementById('root')
-);
+
+}
+
+
+ReactDOM.render( < App / > , document.getElementById('root'));
